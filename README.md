@@ -11,10 +11,17 @@ Bağlantılar - Connection
 
 A - 2  
 B - 3  
-c - 4  
+C - 4  
 D - 5  
 E - 6  
 F - 7  
 G - 8  
 . - 9  
-GND - GND (I use Anode)  
+GND - GND (I use Anode)
+
+![HC06 BLUETOOTH](https://classes.engineering.wustl.edu/ese205/core/images/thumb/1/14/Bluetooth-module-fmk.png/270px-Bluetooth-module-fmk.png)
+
+RX - TX1  
+TX - RX0 (That's really important. The connection have to opposite)  
+VCC - 5V  
+GND - GND  
