@@ -1,4 +1,4 @@
-# SevenSegmentDisplayWithHC06BluetoothModule
+# Seven Segment Display With HC06 Bluetooth Module
 Display numbers with HC06 Bluetooth Module
 
 Bu projede Arduino Bluetooth Controller telefon uygulamasında girilen sayıların seven segment displayde gösterilmesi amaçlanmıştır.  
@@ -17,7 +17,7 @@ E - 6
 F - 7  
 G - 8  
 . - 9  
-GND - GND (I use Anode)
+VCC - 3.3V (I used Kathode. If you used Anode you have to connect to GND.)  
 
 ![HC06 BLUETOOTH](https://classes.engineering.wustl.edu/ese205/core/images/thumb/1/14/Bluetooth-module-fmk.png/270px-Bluetooth-module-fmk.png)
 
